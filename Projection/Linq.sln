@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projection", "Projection\Projection.csproj", "{8233C803-F4D7-4353-B1E5-24732586DAA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Join", "Join\Join.csproj", "{5C5490F8-D4CB-46A5-82AE-2301CA0F8C58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8233C803-F4D7-4353-B1E5-24732586DAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8233C803-F4D7-4353-B1E5-24732586DAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8233C803-F4D7-4353-B1E5-24732586DAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5490F8-D4CB-46A5-82AE-2301CA0F8C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5490F8-D4CB-46A5-82AE-2301CA0F8C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5490F8-D4CB-46A5-82AE-2301CA0F8C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5490F8-D4CB-46A5-82AE-2301CA0F8C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
